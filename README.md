@@ -4,5 +4,6 @@
 Here is an image:
 # AGRIVYAAN
 
-![App Screenshot](BinBuddy/Screenshot%202025-08-22%20215243.png)
+![App Screenshot](https://github.com/Harikrishnankanjingattu/BinBuddy-/blob/main/Screenshot%202025-08-22%20215243.png?raw=true)
+
 
